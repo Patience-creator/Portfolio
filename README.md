@@ -1,2 +1,2 @@
 # Portfolio
-My personal portfolio
+My very first try at making a personal portfolio. I used HTML,CSS
